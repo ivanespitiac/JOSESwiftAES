@@ -2,13 +2,13 @@
 import PackageDescription
 
 let package = Package(
-    name: "JOSESwift",
+    name: "JOSESwiftAES",
     platforms: [.iOS(.v13), .macOS(.v10_15), .watchOS(.v6)],
     products: [
-        .library(name: "JOSESwift", targets: ["JOSESwift"])
+        .library(name: "JOSESwiftAES", targets: ["JOSESwiftAES"])
     ],
     dependencies: [],
     targets: [
-        .target(name: "JOSESwift", path: "JOSESwift")
+        .target(name: "JOSESwiftAES", path: "JOSESwiftAES")
     ],
     swiftLanguageVersions: [.v5])

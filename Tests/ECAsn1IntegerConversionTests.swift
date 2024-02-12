@@ -21,7 +21,7 @@
 //  ---------------------------------------------------------------------------
 
 import XCTest
-@testable import JOSESwift
+@testable import JOSESwiftAES
 
 class ECAsn1IntegerConversionTests: XCTestCase {
 

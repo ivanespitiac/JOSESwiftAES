@@ -24,9 +24,9 @@
 #import <UIKit/UIKit.h>
 
 //! Project version number for JOSESwift.
-FOUNDATION_EXPORT double JOSESwiftVersionNumber;
+FOUNDATION_EXPORT double JOSESwiftAESVersionNumber;
 
 //! Project version string for JOSESwift.
-FOUNDATION_EXPORT const unsigned char JOSESwiftVersionString[];
+FOUNDATION_EXPORT const unsigned char JOSESwiftAESVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <JOSESwift/PublicHeader.h>
